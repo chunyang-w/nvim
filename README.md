@@ -1,3 +1,3 @@
 # NViM dot files
 
-Chunyang's neovim dotfile config
+My nvim dotfile config
